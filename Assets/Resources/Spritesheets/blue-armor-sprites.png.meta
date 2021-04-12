@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: 20affcafc3ac9cb44983f5622443c781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2606678222311833890
+    second: blue_idle_up
+  - first:
+      213: 2521329724819192447
+    second: blue_idle_left
+  - first:
+      213: 1142977880652649017
+    second: blue_idle_down
+  - first:
+      213: -431956308360616911
+    second: blue_idle_right
+  - first:
+      213: 5268094057654531926
+    second: blue_walk_up1
+  - first:
+      213: -236265622630758682
+    second: blue_walk_up2
+  - first:
+      213: 7916751270839623701
+    second: blue_walk_up3
+  - first:
+      213: 8385122902669216278
+    second: blue_walk_up4
+  - first:
+      213: 6759399114846920085
+    second: blue_walk_left1
+  - first:
+      213: 5977065893416670750
+    second: blue_walk_left2
+  - first:
+      213: -4341477770329694404
+    second: blue_walk_left3
+  - first:
+      213: 6129942143253342493
+    second: blue_walk_left4
+  - first:
+      213: -1809434404556369277
+    second: blue_walk_down1
+  - first:
+      213: -5219411198251587940
+    second: blue_walk_down2
+  - first:
+      213: -1119742504885209308
+    second: blue_walk_down3
+  - first:
+      213: 7476937569926657816
+    second: blue_walk_right1
+  - first:
+      213: -3810167454230846832
+    second: blue_walk_down4
+  - first:
+      213: 3049778573111232836
+    second: blue_walk_right2
+  - first:
+      213: 8638476882992163672
+    second: blue_walk_right3
+  - first:
+      213: -5711964370451116683
+    second: blue_walk_right4
+  - first:
+      213: 9209911106824063623
+    second: blue_attack_up1
+  - first:
+      213: 6827241781358755118
+    second: blue_attack_up2
+  - first:
+      213: -7042617182074730376
+    second: blue_attack_up3
+  - first:
+      213: 2418065358250112091
+    second: blue_attack_up4
+  - first:
+      213: 2199142950125764049
+    second: blue_attack_left1
+  - first:
+      213: 1947726111702921353
+    second: blue_attack_left2
+  - first:
+      213: 1152795882429834166
+    second: blue_attack_left3
+  - first:
+      213: -7125259711401817571
+    second: blue_attack_left4
+  - first:
+      213: 1088843403405640028
+    second: blue_attack_down1
+  - first:
+      213: -5937003020568739087
+    second: blue_attack_down2
+  - first:
+      213: 4750802973446634501
+    second: blue_attack_down3
+  - first:
+      213: -2105341259317384935
+    second: blue_attack_down4
+  - first:
+      213: 8955185165886540832
+    second: blue_attack_right1
+  - first:
+      213: -5049550073498292488
+    second: blue_attack_right2
+  - first:
+      213: 4793239464932244392
+    second: blue_attack_right3
+  - first:
+      213: -4890088745057504298
+    second: blue_attack_right4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_idle_up
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3b53b7f733dbd0800000000000000
+      internalID: -2606678222311833890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_idle_left
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 92
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3b71b6009df220800000000000000
+      internalID: 2521329724819192447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_idle_down
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321e62a35cacdf00800000000000000
+      internalID: 1142977880652649017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_idle_right
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342da1b602610af0800000000000000
+      internalID: -431956308360616911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_up1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65738d542a70c1940800000000000000
+      internalID: 5268094057654531926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_up2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 137
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e605720bad98bcf0800000000000000
+      internalID: -236265622630758682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_up3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a4890653fddd60800000000000000
+      internalID: 7916751270839623701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_up4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 138
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a479b8ad0fd5470800000000000000
+      internalID: 8385122902669216278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_left1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 93
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5a8f9ea53ecd50800000000000000
+      internalID: 6759399114846920085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_left2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 94
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16143023cdc2f250800000000000000
+      internalID: 5977065893416670750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_left3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 94
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f5e3358f8ffb3c0800000000000000
+      internalID: -4341477770329694404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_left4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 92
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ef46c6ede11550800000000000000
+      internalID: 6129942143253342493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_down1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3821c00fef893e6e0800000000000000
+      internalID: -1809434404556369277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_down2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96a4873b2de097b0800000000000000
+      internalID: -5219411198251587940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_down3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427396cdf10e570f0800000000000000
+      internalID: -1119742504885209308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_right1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173047fa1b63c760800000000000000
+      internalID: 7476937569926657816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_down4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 47
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e0d333e09f1bc0800000000000000
+      internalID: -3810167454230846832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_right2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44984ed247df25a20800000000000000
+      internalID: 3049778573111232836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_right3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85beb2bd4f802e770800000000000000
+      internalID: 8638476882992163672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_walk_right4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc2991ba60bb0b0800000000000000
+      internalID: -5711964370451116683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_up1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 138
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a4c2ffa5d20df70800000000000000
+      internalID: 9209911106824063623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_up2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 139
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df7955a3c3fbe50800000000000000
+      internalID: 6827241781358755118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_up3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8788f5d7cf8934e90800000000000000
+      internalID: -7042617182074730376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_up4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 137
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54fc22c1a1be8120800000000000000
+      internalID: 2418065358250112091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_left1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 92
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddfc809cdce48e10800000000000000
+      internalID: 2199142950125764049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_left2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 92
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803ecf3496b70b10800000000000000
+      internalID: 1947726111702921353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_left3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 94
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b363ce4fbd8fff00800000000000000
+      internalID: 1152795882429834166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_left4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 93
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0e713b0efd1d90800000000000000
+      internalID: -7125259711401817571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_down1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 46
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5145047e495c1f00800000000000000
+      internalID: 1088843403405640028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_down2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2449855378b9da0800000000000000
+      internalID: -5937003020568739087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_down3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 46
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf72e222e3ee140800000000000000
+      internalID: 4750802973446634501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_down4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 47
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e96b774358c2e0800000000000000
+      internalID: -2105341259317384935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_right1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc3863675374c70800000000000000
+      internalID: 8955185165886540832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_right2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe269936f46ce9b0800000000000000
+      internalID: -5049550073498292488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_right3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7baec5e1058240800000000000000
+      internalID: 4793239464932244392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_attack_right4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d336b6f13ae22cb0800000000000000
+      internalID: -4890088745057504298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

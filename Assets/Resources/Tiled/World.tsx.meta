@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 592fdaa71b055c445be091ecec6dfc1c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Resources/Tiled/18a43772-8152-4b9d-a4a9-0ba77b521e68-20201206021016 (1)/Project1/Project_1/Assets/Resources/Spritesheets/Overworld.png
+  errors:
+  - 'Missing texture asset: 18a43772-8152-4b9d-a4a9-0ba77b521e68-20201206021016 (1)/Project1/Project_1/Assets/Resources/Spritesheets/Overworld.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 11
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

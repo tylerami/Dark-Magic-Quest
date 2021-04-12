@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: 7f3f0582467eacc47a1d1001377663b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5522481030693257310
+    second: gold_walk_up1
+  - first:
+      213: 735862720469490677
+    second: gold_walk_up2
+  - first:
+      213: -1169979686774613074
+    second: gold_walk_up3
+  - first:
+      213: -8614689025066946801
+    second: gold_walk_up4
+  - first:
+      213: -7594306386035760996
+    second: gold_idle_left
+  - first:
+      213: 199376027156347642
+    second: gold_walk_left1
+  - first:
+      213: -455320730764741798
+    second: gold_idle_up
+  - first:
+      213: -8865316407792073608
+    second: gold_idle_down
+  - first:
+      213: 5293650059513519906
+    second: gold_idle_right
+  - first:
+      213: 1397711553993049962
+    second: gold_walk_down
+  - first:
+      213: -7504603939271258235
+    second: gold_walk_down2
+  - first:
+      213: 1480350183443741223
+    second: gold_walk_left2
+  - first:
+      213: 5021647115930666733
+    second: gold_walk_left3
+  - first:
+      213: 5253722103176543864
+    second: gold_walk_left4
+  - first:
+      213: -2015805861417305695
+    second: gold_walk_down3
+  - first:
+      213: -1351351196849815655
+    second: gold_walk_down4
+  - first:
+      213: -1018065792374484684
+    second: gold_walk_right1
+  - first:
+      213: -7462232829252971488
+    second: gold_walk_right2
+  - first:
+      213: 2962571777977886748
+    second: gold_walk_right3
+  - first:
+      213: -1175917735559712635
+    second: gold_walk_right4
+  - first:
+      213: -6047923256311055200
+    second: gold_attack_up1
+  - first:
+      213: 1485143123009443462
+    second: gold_attack_up2
+  - first:
+      213: -8338813999821112022
+    second: gold_attack_up3
+  - first:
+      213: 4379727238253190261
+    second: gold_attack_up4
+  - first:
+      213: 8580836623677092310
+    second: gold_attack_left1
+  - first:
+      213: -5184654241672448102
+    second: gold_attack_left2
+  - first:
+      213: 2333425545846415099
+    second: gold_attack_left3
+  - first:
+      213: -8713792367827458315
+    second: gold_attack_left4
+  - first:
+      213: 4329516548780266756
+    second: gold_attack_down1
+  - first:
+      213: -5494943150339894579
+    second: gold_attack_down2
+  - first:
+      213: -2835052745757634939
+    second: gold_attack_down3
+  - first:
+      213: -5402236071710144218
+    second: gold_attack_down4
+  - first:
+      213: 9073375477384897116
+    second: gold_attack_right1
+  - first:
+      213: 5641871447162812312
+    second: gold_attack_right2
+  - first:
+      213: -8763030291672093192
+    second: gold_attack_right3
+  - first:
+      213: 7917534192996090567
+    second: gold_attack_right4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gold_walk_up1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff1be03c43c53b0800000000000000
+      internalID: -5522481030693257310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_up2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 138
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5909de3f463a00800000000000000
+      internalID: 735862720469490677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_up3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 136
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab50677ca563cfe0800000000000000
+      internalID: -1169979686774613074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_up4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 137
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fad6a69f9727880800000000000000
+      internalID: -8614689025066946801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_idle_left
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90abd8049a9b9690800000000000000
+      internalID: -7594306386035760996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_left1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 93
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaf16bb07354c200800000000000000
+      internalID: 199376027156347642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_idle_up
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5375ef25306ea9f0800000000000000
+      internalID: -455320730764741798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_idle_down
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748c1492b118f480800000000000000
+      internalID: -8865316407792073608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_idle_right
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5782aea2d67940800000000000000
+      internalID: 5293650059513519906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_down
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670732c04ba56310800000000000000
+      internalID: 1397711553993049962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_down2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4db37a7a4ad790800000000000000
+      internalID: -7504603939271258235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_left2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a395b06a24b8410800000000000000
+      internalID: 1480350183443741223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_left3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68964327970b540800000000000000
+      internalID: 5021647115930666733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_left4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 93
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb47cda68f8e840800000000000000
+      internalID: 5253722103176543864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_down3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9321ecf3b6604e0800000000000000
+      internalID: -2015805861417305695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_down4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 47
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb7f80f390f3de0800000000000000
+      internalID: -1351351196849815655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_right1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431da874e8a1fd1f0800000000000000
+      internalID: -1018065792374484684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_right2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245e1547c2d07890800000000000000
+      internalID: -7462232829252971488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_right3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1828ffe55b2d1920800000000000000
+      internalID: 2962571777977886748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_walk_right4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b1eebc0d4eafe0800000000000000
+      internalID: -1175917735559712635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_up1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 139
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac71c677d5711ca0800000000000000
+      internalID: -6047923256311055200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_up2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686979f3dc94c9410800000000000000
+      internalID: 1485143123009443462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_up3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 138
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbb9c19d4964c80800000000000000
+      internalID: -8338813999821112022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_up4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 138
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1f29e7bae7cc30800000000000000
+      internalID: 4379727238253190261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_left1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 93
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17fed2271451770800000000000000
+      internalID: 8580836623677092310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_left2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 93
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9734e9cf686c08b0800000000000000
+      internalID: -5184654241672448102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_left3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 92
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5ff1cb2ef16020800000000000000
+      internalID: 2333425545846415099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_left4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 93
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f662255204621780800000000000000
+      internalID: -8713792367827458315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_down1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 48
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4051933cc58851c30800000000000000
+      internalID: 4329516548780266756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_down2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc25607715a0eb3b0800000000000000
+      internalID: -5494943150339894579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_down3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 47
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ece996c8ed7a8d0800000000000000
+      internalID: -2835052745757634939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_down4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 47
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294ae04ae66705b0800000000000000
+      internalID: -5402236071710144218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_right1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5264438cea1bed70800000000000000
+      internalID: 9073375477384897116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_right2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897fe847034fb4e40800000000000000
+      internalID: 5641871447162812312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_right3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda5e4d066736680800000000000000
+      internalID: -8763030291672093192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_attack_right4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28a8e466bb0ed60800000000000000
+      internalID: 7917534192996090567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
